@@ -1,0 +1,15 @@
+# Secrets: never commit keys
+.env
+
+# Generated pipeline output (rebuild with the CLI or the app)
+data/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Editors and OS
+.vscode/*
+!.vscode/settings.json
+.idea/
+.DS_Store
+Thumbs.db

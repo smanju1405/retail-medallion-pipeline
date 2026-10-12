@@ -1,0 +1,82 @@
+customer_id,customer_name,email,region,signup_date
+C0001,Ben Patel,ben.patel1@example.com,east,2024-08-16
+C0002,Ben Tan,ben.tan2@example.com,NORTH,2024-02-02
+C0003,Dara Garcia,dara.garcia3@example.com,Central,2025-07-28
+C0004,Ines Novak,ines.novak4@example.com,SOUTH,2025-08-26
+C0005,Asha Lindqvist,asha.lindqvist5@example.com, West ,2024-10-11
+C0006,Farid Okafor,farid.okafor6@example.com,NORTH,2024-04-09
+C0007,Farid Moreau,farid.moreau7@example.com,East,2025-04-15
+C0008,Grace Okafor,grace.okafor8@example.com, Central ,05-Oct-2025
+C0009,Farid Moreau,farid.moreau9@example.com,South,16-Feb-2024
+C0010,Elif Okafor,elif.okafor10@example.com,South,2025-01-24
+C0011,Farid Lindqvist,farid.lindqvist11@example.com, East ,02-Aug-2024
+C0012,Ben Moreau,ben.moreau12@example.com,south,2024-06-16
+C0013,Elif Tan,elif.tan13@example.com, South ,2024-02-27
+C0014,Asha Haddad,asha.haddad14@example.com, West ,2024-03-08
+C0015,Jamal Haddad,jamal.haddad15@example.com,SOUTH,02/09/2025
+C0016,Hiro Lindqvist,hiro.lindqvist16@example.com,east,09-Sep-2024
+C0017,Ines Kim,ines.kim17@example.com,CENTRAL,2025-08-20
+C0018,Dara Lindqvist,dara.lindqvist18@example.com,CENTRAL,03-Apr-2024
+C0019,Ben Lindqvist,ben.lindqvist19@example.com,SOUTH,2025-09-02
+C0020,Grace Moreau,grace.moreau20@example.com, West ,07/20/2025
+C0021,Asha Okafor,asha.okafor21@example.com, Central ,2025-10-18
+C0022,Elif Novak,elif.novak22@example.com,SOUTH,01/04/2024
+C0023,Elif Tan,elif.tan23@example.com,South,2025-10-02
+C0024,Ines Moreau,ines.moreau24@example.com,south,17-Jan-2025
+C0025,Ines Tan,ines.tan25@example.com, North ,2025-05-15
+C0026,Farid Kim,farid.kim26@example.com,South,09/03/2024
+C0027,Ben Okafor,ben.okafor27@example.com,West,29-Jun-2025
+C0028,Chen Silva,chen.silva28@example.com,central,2024-09-28
+C0029,Jamal Novak,jamal.novak29@example.com,south,2024-11-15
+C0030,Farid Silva,farid.silva30@example.com,CENTRAL,2024-05-03
+C0031,Ben Haddad,ben.haddad31@example.com,north,2025-08-25
+C0032,Ben Patel,ben.patel32@example.com,South,02/02/2024
+C0033,Ben Tan,ben.tan33@example.com, South ,2025-11-16
+C0034,Ines Lindqvist,ines.lindqvist34@example.com,CENTRAL,05-Sep-2024
+C0035,Grace Garcia,grace.garcia35@example.com,North,2025-11-05
+C0036,Grace Novak,grace.novak36@example.com,West,20-Nov-2025
+C0037,Ben Patel,ben.patel37@example.com, West ,2024-04-21
+C0038,Dara Tan,dara.tan38@example.com,west,2025-03-08
+C0039,Hiro Garcia,hiro.garcia39@example.com,NORTH,2025-07-17
+C0040,Ines Patel,ines.patel40@example.com,north,2024-06-19
+C0041,Hiro Garcia,hiro.garcia41@example.com,West,2024-06-17
+C0042,Grace Kim,grace.kim42@example.com, West ,09-Mar-2025
+C0043,Ines Silva,ines.silva43@example.com,south,2024-10-30
+C0044,Asha Moreau,asha.moreau44@example.com,Central,2024-11-17
+C0045,Jamal Silva,jamal.silva45@example.com,central,02/28/2024
+C0046,Ben Lindqvist,ben.lindqvist46@example.com,North,11/22/2025
+C0047,Grace Okafor,grace.okafor47@example.com,central,2025-08-15
+C0048,Jamal Okafor,jamal.okafor48@example.com, West ,2024-09-24
+C0049,Farid Garcia,farid.garcia49@example.com,EAST,14-May-2024
+C0050,Elif Silva,elif.silva50@example.com,East,2024-01-10
+C0051,Jamal Okafor,jamal.okafor51@example.com,north,2025-06-02
+C0052,Farid Okafor,farid.okafor52@example.com, South ,2024-10-18
+C0053,Ines Kim,ines.kim53@example.com,Central,11/14/2025
+C0054,Elif Okafor,elif.okafor54@example.com, South ,04/28/2024
+C0055,Ines Lindqvist,ines.lindqvist55@example.com, East ,2025-09-11
+C0056,Farid Garcia,farid.garcia56@example.com,EAST,09/14/2024
+C0057,Asha Okafor,asha.okafor57@example.com, West ,2024-02-15
+C0058,Chen Kim,chen.kim58@example.com,SOUTH,18-Jul-2025
+C0059,Ines Patel,ines.patel59@example.com,North,2024-06-01
+C0060,Farid Moreau,farid.moreau60@example.com,central,2025-03-16
+C0061,Elif Haddad,elif.haddad61@example.com, North ,03-Aug-2024
+C0062,Ben Haddad,ben.haddad62@example.com,CENTRAL,27-Sep-2025
+C0063,Dara Lindqvist,dara.lindqvist63@example.com,SOUTH,2024-01-26
+C0064,Farid Novak,farid.novak64@example.com, South ,12-Jun-2024
+C0065,Ben Novak,ben.novak65@example.com,NORTH,2024-08-15
+C0066,Hiro Haddad,hiro.haddad66@example.com,east,2024-08-16
+C0067,Dara Novak,dara.novak67@example.com, East ,03/12/2024
+C0068,Elif Haddad,elif.haddad68@example.com,CENTRAL,11/26/2025
+C0069,Ines Haddad,ines.haddad69@example.com,North,2024-09-24
+C0070,Elif Patel,elif.patel70@example.com,NORTH,19-Dec-2024
+C0071,Farid Novak,farid.novak71@example.com,Central,01/29/2025
+C0072,Dara Kim,dara.kim72@example.com,NORTH,2024-01-02
+C0073,Ines Garcia,ines.garcia73@example.com,EAST,03/12/2024
+C0074,Farid Moreau,farid.moreau74@example.com,East,2024-11-03
+C0075,Grace Haddad,grace.haddad75@example.com, West ,2025-07-21
+C0076,Grace Novak,grace.novak76@example.com, South ,2025-02-19
+C0077,Asha Kim,asha.kim77@example.com,east,16-Mar-2025
+C0078,Jamal Haddad,jamal.haddad78@example.com,WEST,28-Mar-2025
+C0079,Ines Silva,ines.silva79@example.com,South,2024-10-17
+C0080,Jamal Haddad,jamal.haddad80@example.com,north,2025-11-19
+C0001,Ben Patel,ben.patel1@example.com,east,2024-08-16

@@ -1,0 +1,26 @@
+product_id,product_name,category,list_price
+P001,Apparel item 1,Apparel,$29.08
+P002,Home item 2,Home,$111.20
+P003,Beauty item 3,beauty,$37.42
+P004,Apparel item 4,Apparel,29.12
+P005,Grocery item 5,Grocery,$140.78
+P006,Beauty item 6,Beauty,85.23
+P007,Grocery item 7,grocery,83.79
+P008,Beauty item 8,beauty,108.40
+P009,Beauty item 9,beauty,78.53
+P010,Home item 10,Home,82.66
+P011,Electronics item 11,electronics,138.55
+P012,Electronics item 12,electronics,$80.86
+P013,Electronics item 13,Electronics,$59.59
+P014,Apparel item 14,Apparel,70.80
+P015,Grocery item 15,grocery,76.43
+P016,Home item 16,home,$14.02
+P017,Beauty item 17,Beauty,170.45
+P018,Beauty item 18,Beauty,70.33
+P019,Electronics item 19,electronics,136.37
+P020,Beauty item 20,Beauty,$144.58
+P021,Electronics item 21,Electronics,$80.14
+P022,Home item 22,home,131.18
+P023,Beauty item 23,beauty,97.54
+P024,Grocery item 24,grocery,$17.86
+P025,Home item 25,home,$35.17
